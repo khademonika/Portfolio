@@ -4,3 +4,45 @@
 body{
   background-color: black;
 }
+.ATMbg {
+  background-image: url('./assets/ATM.jpeg'); /* Reference to local image */
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+
+}
+.Foodbg {
+  background-image: url('./assets/Food-web.jpeg'); /* Reference to local image */
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+ 
+}
+.Linkdeinbg {
+  background-image: url('./assets/Linkedin.jpeg'); /* Reference to local image */
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+
+}
+.Patientbg{
+  background-image: url('./assets/Patient.jpeg'); /* Reference to local image */
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+
+}
+.Youtube {
+  background-image: url('./assets/Youtube.jpeg'); /* Reference to local image */
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+
+}
+.Profile {
+  background-image: url('./assets/ProfilePhoto.jpeg'); /* Reference to local image */
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+
+}
