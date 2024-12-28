@@ -7,7 +7,7 @@ export default function Projects() {
   <ForPRojects bg="Foodbg" language='React js' name="Food Website" link="https://food-websitemk.netlify.app"/>
   <ForPRojects bg="Linkdeinbg" language='Built with HTML, CSS' name="Linkedin Clone" link=" https://prismatic-snickerdoodle-14a06f.netlify.app/"/>
   <ForPRojects bg="Youtube Clone" language='Built with HTML, CSS' name="Youtube Clone" link="https://youtubmk.netlify.app/"/>
-  <ForPRojects bg="ATMbg" language='Built with HTML, CSS & JS' name="ATM" link="https://prismatic-snickerdoodle-14a06f.netlify.app/"/>
+  <ForPRojects bg="ATMbg" language='Built with HTML, CSS & JS' name="ATM" link="https://funny-madeleine-112377.netlify.app/"/>
     </div>
   )
 }
